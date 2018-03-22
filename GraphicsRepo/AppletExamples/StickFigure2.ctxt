@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=center\ bottom\ shade\ size
+comment0.target=StickFigure2(int,\ int,\ java.awt.Color,\ int)
+comment1.params=page
+comment1.target=void\ draw(java.awt.Graphics)
+comment2.params=size
+comment2.target=void\ setHeight(int)
+comment2.text=\r\n\ setHeight\ method\r\n
+comment3.params=
+comment3.target=void\ dab()
+comment4.params=
+comment4.target=void\ run()
+numComments=5
